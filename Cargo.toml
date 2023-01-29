@@ -5,6 +5,7 @@ version = "0.0.0"
 edition = "2021"
 license = "MIT"
 description = "An attempt to make Rust immutable"
+respository = "https://github.com/sid-707/immutable-rust.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
